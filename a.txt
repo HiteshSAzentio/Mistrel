@@ -1,0 +1,32 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is AE57-6AAD
+
+ Directory of D:\Azentio\Projects\AI\Documentation\POC\GE Singapore\DocAICustomerServicing\Mistrel
+
+06-05-2025  14:37    <DIR>          .
+21-04-2025  16:04    <DIR>          ..
+06-05-2025  14:37                 0 a.txt
+06-05-2025  14:20           320,597 Ahmad bin Ibrahim Clinical Abstract-IMG.pdf
+06-05-2025  11:59           141,457 Ahmad bin Ibrahim Clinical Abstract.pdf
+06-05-2025  14:26         1,637,765 Ahmad bin Ibrahim Death Claim-IMG.pdf
+06-05-2025  11:55           173,514 Ahmad bin Ibrahim Death Claim.pdf
+06-05-2025  14:21           329,322 David Tan Wei Ming Clinical Abstract Application-IMG.pdf
+06-05-2025  14:04           141,502 David Tan Wei Ming Clinical Abstract Application.pdf
+06-05-2025  14:30         1,612,200 David Tan Wei Ming Death Claim Claimant Statement-IMG.pdf
+06-05-2025  14:02           173,924 David Tan Wei Ming Death Claim Claimant Statement.pdf
+06-05-2025  14:22           316,405 Li Wei Ling-Clinical Claimant Statement-IMG.pdf
+06-05-2025  12:09           141,431 Li Wei Ling-Clinical Claimant Statement.pdf
+06-05-2025  14:28         1,605,033 Li Wei Ling-Death Claim Claimant Statement-IMG.pdf
+06-05-2025  12:06           173,552 Li Wei Ling-Death Claim Claimant Statement.pdf
+06-05-2025  14:21           326,045 Mary Anne De Souza Clinical Abstract Application-IMG.pdf
+06-05-2025  14:05           141,463 Mary Anne De Souza Clinical Abstract Application.pdf
+06-05-2025  14:29         1,611,996 Mary Anne De Souza Death Claim Claimant Statement-IMG.pdf
+06-05-2025  14:11           174,324 Mary Anne De Souza Death Claim Claimant Statement.pdf
+06-05-2025  14:23           325,505 Natasha Rajendran Clinical Abstract-IMG.pdf
+06-05-2025  12:17           141,455 Natasha Rajendran Clinical Abstract.pdf
+06-05-2025  14:32         1,612,426 Natasha Rajendran Death Claim Claimant Statement-IMG.pdf
+06-05-2025  12:16           173,752 Natasha Rajendran Death Claim Claimant Statement.pdf
+21-04-2025  15:56         1,015,252 revocable-nomination-P1234567-image.pdf
+21-04-2025  15:51           186,244 revocable-nomination-P1234567.pdf
+              23 File(s)     12,475,164 bytes
+               2 Dir(s)  160,276,467,712 bytes free
